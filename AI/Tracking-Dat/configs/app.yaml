@@ -1,0 +1,9 @@
+PARAMS:
+  NUM_THREADS: 48
+  AREA_THRESHOLD: 13000
+  MATCHING_COLOR_THRESHOLD: 60
+DATASET:
+  DETECTION_FOLDER: 'datasets/detection/Yolo'
+  ROOT_DATASET: '/home/hoangtv/data/Phong_Dat/aic23/dataset/test/'
+  TRACKING_RESULT: 'outputs/multi_matching'
+
